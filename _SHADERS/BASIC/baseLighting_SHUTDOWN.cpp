@@ -1,0 +1,1 @@
+    glDeleteProgram(baseLighting_SHADER); 

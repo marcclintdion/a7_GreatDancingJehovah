@@ -1,0 +1,71 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl dirt
+Ka 0 0 0
+Kd 0.392157 0.286275 0.176471
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Fiber_Default
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd leaf_10.bmp
+map_bump leaf_10.bmp
+bump leaf_10.bmp
+
+newmtl leavesMany
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd foliageRockRing.png
+
+newmtl rockRing_LP2
+Ka 0 0 0
+Kd 0.4 0.317647 0.192157
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd rockRing.png
+
+newmtl rocks_HP
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 1000
+Tf 1 1 1
+d 1
+map_bump rockRing.png
+bump rockRing.png
+
+newmtl rocks_LP
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 215
+Tf 1 1 1
+d 1
+map_Kd rockRing.png
+

@@ -1,0 +1,36 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.0784314
+Ks 1 1 1
+Ni 1
+Ns 1000
+Tf 1 1 1
+d 1
+
+newmtl flowerCrest
+Ka 0 0 0
+Kd 0.74902 0.74902 0.74902
+Ks 1 1 1
+Ni 1
+Ns 1000
+Tf 1 1 1
+d 1
+
+newmtl shield_LP
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl shieldMain
+Ka 0 0 0
+Kd 0.384314 0.172549 0.117647
+Ks 0.95 0.95 0.95
+Ni 1
+Ns 150
+Tf 1 1 1
+d 1
+

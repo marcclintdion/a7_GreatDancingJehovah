@@ -1,0 +1,83 @@
+newmtl baseMain
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl baseMain_LP
+Ka 0 0 0
+Kd 0.752941 0.752941 0.752941
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd baseMain.png
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl launcher
+Ka 0 0 0
+Kd 0 0 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl spring
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 200
+Tf 1 1 1
+d 1
+
+newmtl spring_LP
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl springCore
+Ka 0 0 0
+Kd 0.992157 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl springPlane
+Ka 0 0 0
+Kd 0.901961 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd spring.png
+
+newmtl springShadow
+Ka 0 0 0
+Kd 0.345098 0.345098 0.345098
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
